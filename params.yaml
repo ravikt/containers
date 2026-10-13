@@ -1,0 +1,6 @@
+seed: 0
+epochs: 3
+batch_size: 128
+lr: 0.001
+width: 512
+device: auto

@@ -1,0 +1,8 @@
+*.sif
+data/
+models/
+metrics.json
+logs/*
+!logs/.gitkeep
+__pycache__/
+*.py[cod]
